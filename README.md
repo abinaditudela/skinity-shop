@@ -1,16 +1,22 @@
-# React + Vite
+Skinity Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-performance e-commerce architecture designed for beauty and skincare retail. Built from scratch to showcase clean code patterns, optimized asset delivery, and scalability in frontend engineering.
 
-Currently, two official plugins are available:
+## 🚀 Architectural Vision
+This project serves as a core production-grade boilerplate for my software portfolio. It focuses on the transition from legacy frontend frameworks to the modern, lightning-fast **Vite** ecosystem, utilizing a component-driven architecture for maximum reusability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack & Environment
+*   **Runtime Environment:** Node.js v22 (LTS - Long Term Support)
+*   **Frontend Engine:** React 18+ powered by Vite (ES Modules native bundling)
+*   **Code Quality Assurance:** Static code analysis via ESLint for strict adherence to JavaScript/React best practices.
+*   **Version Control Architecture:** Cryptographically tracked Git history following standardized semantic commit conventions.
 
-## React Compiler
+## 🎯 Key Features (In Development)
+*   **Performance Optimization:** Zero-lag local compilation and rapid asset loading using Vite's native build architecture.
+*   **Component Modularity:** Decoupled, reusable UI elements following atomic design principles.
+*   **State Architecture:** Clean data flow modeling for product management, shopping carts, and secure checkout simulation.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚙️ How to Run the Infrastructure Locally
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+Ensure you have Node.js 22 and NPM installed via an environment manager like NVM.
